@@ -5,3 +5,4 @@ New commit 3: Building my skills step by step!
 New commit 4: Learning more about GitHub!
 New commit 5: Making progress every day!
 New commit 6: Getting better at commits!
+New commit 7: Practicing consistency!
