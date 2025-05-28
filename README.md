@@ -7,3 +7,4 @@ New commit 5: Making progress every day!
 New commit 6: Getting better at commits!
 New commit 7: Practicing consistency!
 New commit 8: Almost there, keep going!
+New commit 9: Nearing the finish line!
